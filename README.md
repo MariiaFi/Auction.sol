@@ -66,5 +66,5 @@ Only the seller can receive the winning bid.
 Auction cannot be ended before the time expires.
 
 ## License
-MIT — free to use, modify, distribute.
+MIT - free to use, modify, distribute.
 
